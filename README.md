@@ -1,2 +1,2 @@
 # CFTR-Variant-Thesaurus
-A nomenclature thesaurus for pathogenic CFTR variants
+A nomenclature thesaurus for pathogenic CFTR variants. Under construction.
